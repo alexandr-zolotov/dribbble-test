@@ -3,7 +3,7 @@
 
     <groupId>test.assignment.attendify</groupId>
     <artifactId>dribbble-stats</artifactId>
-    <version>1.2.0</version>
+    <version>1.2.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>dribbble-stats</name>
@@ -11,7 +11,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:alexandr-zolotov/dribbble-test.git</developerConnection>
-        <tag>v1.2.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
